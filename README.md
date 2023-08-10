@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Arnaldo Cruz Orellana</h1>
 <h3 align="center">Ingeniero Civil en Informática en nivel de Arquitecto de Infraestructura TI</h3>
-
+<br />
 - 🔭 Actualmente trabajo en el proyecto de **Journey to Cloud para Transbank**
 
 - 🌱 Actualmente estoy aprendiendo **Python y Terraform**
@@ -9,15 +9,15 @@
 
 - 🤝 Estoy buscando ayuda con **Terraform y Automatización**
 
-- 👨‍💻 Todos mis repositorios están disponibles en [https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories)
+- 👨‍💻 Todos mis repositorios están disponibles en <a href="https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories">Mi cuenta de Github</a>
 
-- 📝 Regularmente escribo artículos sobre [https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/)
+- 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
 
 - 💬 Pregúntame sobre **CMD Batch, PowerShell, Shell Scripting y XNU**
 
 - 📫 Escribeme a **arnaldocruzorellana@gmail.com**
 
-- 📄 Conoce mis experiencias y trayectoria en  [https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/)
+- 📄 Conoce mis experiencias y trayectoria en  <a href="https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a>
 
 <h3 align="left">Conectemos en Redes Sociales:</h3>
 <p align="left">
