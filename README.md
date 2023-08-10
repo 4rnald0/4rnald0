@@ -1,6 +1,7 @@
 <h1 align="center">Hola, soy Arnaldo Cruz Orellana</h1>
 <h3 align="center">Ingeniero Civil en Informática en nivel de Arquitecto de Infraestructura TI</h3>
 <br />
+
 - 🔭 Actualmente trabajo en el proyecto de **Journey to Cloud para Transbank**
 
 - 🌱 Actualmente estoy aprendiendo **Python y Terraform**
