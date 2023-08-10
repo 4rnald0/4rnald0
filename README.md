@@ -1,4 +1,5 @@
-### Hola, Bienvenido! 👋
+### Hola, Bienvenido!
+---
 Soy Arnaldo Cruz Orellana, Ingeniero Civil con mención en Ciencias de la Computación y Arquitecto de Infraestructuras TI
 <!--
 **4rnald0/4rnald0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
