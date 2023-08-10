@@ -13,7 +13,7 @@
 
 - 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
 
-- 💬 Pregúntame sobre **CMD Batch, PowerShell, Shell Scripting y XNU**
+- 💬 Pregúntame sobre **Windows Batch, Windows PowerShell, Linux Shell Scripting y XNU de MacOS**
 
 - 📫 Escribeme a **arnaldocruzorellana@gmail.com**
 
