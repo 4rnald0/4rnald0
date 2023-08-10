@@ -9,15 +9,15 @@
 
 - 🤝 Estoy buscando ayuda con **Terraform y Automatización**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories)
+- 👨‍💻 Todos mis repositorios están disponibles en [https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories)
 
 - 📝 Regularmente escribo artículos sobre [https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/)
 
 - 💬 Pregúntame sobre **CMD Batch, PowerShell, Shell Scripting y XNU**
 
-- 📫 Como llegar a mi **arnaldocruzorellana@gmail.com**
+- 📫 Escribeme a **arnaldocruzorellana@gmail.com**
 
-- 📄 Conoce mis experiencias [https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/)
+- 📄 Conoce mis experiencias y trayectoria en  [https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/)
 
 <h3 align="left">Conectemos en Redes Sociales:</h3>
 <p align="left">
