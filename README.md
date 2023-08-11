@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente trabajo en el proyecto de **Journey to Cloud para Transbank**
 
-- 🌱 Actualmente estoy aprendiendo **Python y Terraform**
+- 🌱 Actualmente estoy aprendiendo **AWS Glue y AWS Athena**
 
 - 👯 Busco colaborar en **Proyectos DevOps y DevSecOps**
 
