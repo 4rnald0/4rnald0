@@ -8,7 +8,7 @@
 
 - 👯 Busco colaborar en **Proyectos DevOps y DevSecOps**
 
-- 🤝 Estoy buscando ayuda con **Terraform y Automatización**
+- 🤝 Estoy buscando ayuda con **Automatización Cloud en AWS,GCP y Azure**
 
 - 👨‍💻 Todos mis repositorios están disponibles en <a href="https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories">Mi cuenta de Github</a>
 
