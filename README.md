@@ -4,11 +4,11 @@
 
 - 🔭 Actualmente trabajo en el proyecto de **Journey to Cloud para Transbank**
 
-- 🌱 Actualmente estoy aprendiendo **AWS Glue y AWS Athena**
+- 🌱 Actualmente estoy aprendiendo **Oracle Cloud Infrastructure 2023 Foundations Associate**
 
 - 👯 Busco colaborar en **Proyectos DevOps y DevSecOps**
 
-- 🤝 Estoy buscando ayuda con **Automatización Cloud en AWS, GCP y Azure**
+- 🤝 Estoy buscando ayuda con **Automatización Cloud en AWS, GCP, Azure, Oracle Cloud, Alibaba Cloud**
 
 - 👨‍💻 Todos mis repositorios están disponibles en <a href="https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories">Mi cuenta de Github</a>
 
@@ -16,7 +16,7 @@
 
 - 💬 Pregúntame sobre **Windows Batch, Windows PowerShell, Linux Shell Scripting y XNU de MacOS**
 
-- 📫 Escribeme a **arnaldocruzorellana@gmail.com**
+- 📫 Escribeme a **ar.cruz@outlook.com**
 
 - 📄 Conoce mis experiencias y trayectoria en  <a href="https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a>
 
