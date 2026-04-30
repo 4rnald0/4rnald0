@@ -21,7 +21,7 @@
 - 📄 Conoce mis experiencias y trayectoria en  <a href="https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a>
 
 <h3 align="left">Conectemos en Redes Sociales:</h3>
-<p align="left">
+<p align="left" style="display: inline;">
 <a href="https://twitter.com/rn4ld0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rn4ld0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnaldocruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaldocruz" height="30" width="40" /></a>
 <a href="https://fb.com/arnaldocruzorellana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnaldocruzorellana" height="30" width="40" /></a>
