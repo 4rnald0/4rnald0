@@ -2,7 +2,7 @@
 <h3 align="center">PhD in Computational Science and Engineering (CSE) por el Center for Computational Science and Engineering (CCSE) del MIT Massachusetts Institute of Technology</h3>
 <br />
 
-- 🔭 Actualmente trabajo como Oficial de **Protección de Datos Personales**
+- 🔭 Actualmente trabajo como Oficial de **Protección de Datos Personales & Secreto Bancario**
 
 - 🌱 Actualmente estoy aprendiendo sobre la **Arduino - Ladder Logic - C# KNX - DALI y Modbus**
 
