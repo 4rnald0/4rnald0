@@ -12,7 +12,7 @@
 
 - 👨‍💻 Todas mis investigaciones están disponibles en <a href="https://github.com/4rnald0?tab=repositories">Mis Repositorios de Github</a>
 
-- 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
+- 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
 
 - 💬 Conversemos sobre **Sci-HUB, Sci-bot, Obsidian, Zotero, VSCode, LaTeX, GitHub, ORCID, Overleaf, ResearchGate, Academia.edu, CrossRef y Scopus**
 
