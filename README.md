@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Arnaldo Cruz Orellana</h1>
-<h3 align="center">Ingeniero Civil en Informática trabajando como Arquitecto de Infraestructura TI</h3>
+<h3 align="center">PhD in Computational Science and Engineering (CSE) por el Center for Computational Science and Engineering (CCSE) del MIT Massachusetts Institute of Technology</h3>
 <br />
 
 - 🔭 Actualmente trabajo como Jefe de **Protección de Datos para Cencosud Scotiabank**
