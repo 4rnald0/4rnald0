@@ -4,9 +4,9 @@
 
 - 🔭 Actualmente trabajo como **Oficial de Protección de Datos Personales & Secreto Bancario**
 
-- 🌱 Actualmente estoy estudiando sobre **Neurociencia Cognitiva Computacional Aplicada e Inteligencia Artificial**
+- 🌱 Ahora estoy estudiando sobre **Neurociencia Cognitiva Computacional Aplicada y Neurodivergencia**
 
-- 👯 Busco colaborar en **Domótica e Inmótica para Smart City - Smart Building & Smart Home**
+- 👯 Busco colaborar en **Proyectos de Inteligencia Artificial y Redes Neuronales de Altas Capacidades**
 
 - 🤝 Estoy buscando ayuda con **Automatización IoT en Cloud en AWS, GCP, Azure, Oracle Cloud, Alibaba Cloud**
 
