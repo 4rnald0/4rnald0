@@ -10,7 +10,7 @@
 
 - 🤝 Estoy buscando ayuda con **Modelos Cognitivos Complejos Aplicados a Modelos de Lenguaje de Gran Tamaño**
 
-- 👨‍💻 Todos mis repositorios están disponibles en <a href="https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories">Mi cuenta de Github</a>
+- 👨‍💻 Todas mis investigaciones están disponibles en <a href="https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories">Mis Repositorios de Github</a>
 
 - 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
 
