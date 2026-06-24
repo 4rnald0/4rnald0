@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente trabajo como **Oficial de Protección de Datos Personales & Secreto Bancario**
 
-- 🌱 Ahora estoy estudiando sobre **Neurociencia Cognitiva Computacional Aplicada y Neurodivergencia**
+- 🌱 Ahora estoy investigando sobre **Neurociencia Cognitiva Computacional Aplicada y Neurodivergencia**
 
 - 👯 Busco colaborar en **Proyectos de Inteligencia Artificial y Redes Neuronales de Altas Capacidades**
 
