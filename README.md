@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente trabajo como **Oficial de Protección de Datos Personales & Secreto Bancario**
 
-- 🌱 Actualmente estoy aprendiendo sobre la **NeuroCiencia e Inteligencia Artificial**
+- 🌱 Actualmente estoy aprendiendo sobre la **Neurociencia Cognitiva Computacional e Inteligencia Artificial**
 
 - 👯 Busco colaborar en **Domótica e Inmótica para Smart City - Smart Building & Smart Home**
 
