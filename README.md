@@ -8,7 +8,7 @@
 
 - 👯 Busco colaborar en **Proyectos de Inteligencia Artificial y Redes Neuronales de Altas Capacidades**
 
-- 🤝 Estoy buscando ayuda con **Automatización IoT en Cloud en AWS, GCP, Azure, Oracle Cloud, Alibaba Cloud**
+- 🤝 Estoy buscando ayuda con **Modelos Cognitivos Complejos Aplicados a Modelos de Lenguaje de Gran Tamaño**
 
 - 👨‍💻 Todos mis repositorios están disponibles en <a href="https://github.com/4rnald0?tab=repositories](https://github.com/4rnald0?tab=repositories">Mi cuenta de Github</a>
 
