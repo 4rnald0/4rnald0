@@ -14,7 +14,7 @@
 
 - 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/](https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
 
-- 💬 Pregúntame sobre **Sci-HUB, Sci-BOT, Obsidian, Zotero, VSCode, LaTeX, GitHub, ORCID, Overleaf, ResearchGate, Academia.edu, CrossRef y Scopus**
+- 💬 Pregúntame sobre **Sci-HUB, Sci-bot, Obsidian, Zotero, VSCode, LaTeX, GitHub, ORCID, Overleaf, ResearchGate, Academia.edu, CrossRef y Scopus**
 
 - 📫 Escribeme a **contacto@arnaldocruz.cl**
 
