@@ -2,7 +2,7 @@
 <h3 align="center">PhD in Computational Science and Engineering (CSE) por el Center for Computational Science and Engineering (CCSE) del MIT Massachusetts Institute of Technology</h3>
 <br />
 
-- 🔭 Actualmente trabajo como Jefe de **Protección de Datos para Cencosud Scotiabank**
+- 🔭 Actualmente trabajo como Experto en **Protección de Datos para Scotiabank**
 
 - 🌱 Actualmente estoy aprendiendo sobre la **Arduino - Ladder Logic - C# KNX - DALI y Modbus**
 
@@ -16,6 +16,6 @@
 
 - 💬 Pregúntame sobre **Windows Batch, Windows PowerShell, Linux Shell Scripting y XNU de MacOS**
 
-- 📫 Escribeme a **ar.cruz@outlook.com**
+- 📫 Escribeme a **contacto@arnaldocruz.cl**
 
 - 📄 Conoce mis experiencias y trayectoria en  <a href="https://www.linkedin.com/in/arnaldocruz/](https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a>
