@@ -30,14 +30,20 @@ Cuento con un perfil técnico multidisciplinario enfocado en la arquitectura de 
 
 A continuación se detallan las tecnologías y lenguajes clasificados según su área de aplicación y propósito de diseño:
 
-### 🎛️ Hardware, Sistemas Embebidos y Bajo Nivel
-*Tecnologías aplicadas al silicio, microcontroladores y descripción de hardware.*
+### 🛠️ Automatización, Scripting & CLI (TTY)
+*Entornos de consola y automatización interna de tareas a nivel de sistema operativo y administración.*
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-294E80?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Hardware HDL](https://img.shields.io/badge/HDL_(VHDL/Verilog)-💾-2C3E50?style=for-the-badge)
-![PicoC / Embebido](https://img.shields.io/badge/PicoC_&_Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_CMD-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
+
+### 📝 Documentación Tecnológica, Formato & Sindicación
+*Estándares declarativos para la interoperabilidad de datos en la red y la maquetación formal de información.*
+
+* **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+* **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=flat-square&logo=wikipedia&logoColor=white)
+* **Tecnologías de Sindicación:** ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white) | ![Rss](https://img.shields.io/badge/rss-F88900?style=fflat-square&logo=rss&logoColor=white)
 
 ### 💻 Desarrollo de Software & Arquitectura Web
 *Herramientas y lenguajes para la construcción de soluciones lógicas, backend y capas de presentación.*
@@ -70,20 +76,14 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
   </tr>
 </table>
 
-### 🛠️ Automatización, Scripting & CLI (TTY)
-*Entornos de consola y automatización interna de tareas a nivel de sistema operativo y administración.*
+### 🎛️ Hardware, Sistemas Embebidos y Bajo Nivel
+*Tecnologías aplicadas al silicio, microcontroladores y descripción de hardware.*
 
-![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows_CMD-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
-
-### 📝 Documentación Tecnológica, Formato & Sindicación
-*Estándares declarativos para la interoperabilidad de datos en la red y la maquetación formal de información.*
-
-* **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-* **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=flat-square&logo=wikipedia&logoColor=white)
-* **Tecnologías de Sindicación:** ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white) | ![Rss](https://img.shields.io/badge/rss-F88900?style=fflat-square&logo=rss&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-294E80?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Hardware HDL](https://img.shields.io/badge/HDL_(VHDL/Verilog)-💾-2C3E50?style=for-the-badge)
+![PicoC / Embebido](https://img.shields.io/badge/PicoC_&_Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
