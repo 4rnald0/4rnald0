@@ -20,24 +20,6 @@
 
 - 📄 Conoce mis experiencias y trayectoria en <a href="https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a> o en <a href="https://www.arnaldocruz.cl/">Mi Sitio Web Personal</a>
 
-## 🛠️ Stack Tecnológico & Habilidades
-
-### 🎛️ Hardware & Embedded Systems
-* **Low-Level:** `Assembler` | `C` | `Embedded C` | `PicoC`
-* **Hardware Description (HDL):** `VHDL` / `Verilog`
-
-### 💻 Software & Web Development
-* **Frontend:** `JavaScript` | `HTML5` | `CSS3`
-* **Backend & Core:** `PHP` | `Python` | `C++`
-* **Databases & Data Formats:** `SQL` | `JSON` | `XML` | `YAML`
-
-### 🛠️ Scripting & Automation (CLI/TTY)
-* `Bash/Sh` | `PowerShell` | `Windows Batch (CMD)` | `VBScript`
-
-### 📝 Documentation & Web Technologies
-* **Markup & Typesetting:** `Markdown` | `LaTeX` | `Wikitexto`
-* **Web Syndication:** `RSS` | `Atom`
-
 # ¡Hola! Soy un apasionado de la tecnología y la ingeniería 🚀
 
 Un perfil técnico multidisciplinario enfocado en la arquitectura de sistemas, la seguridad de la información y la optimización de procesos tecnológicos, abarcando desde el diseño de hardware de bajo nivel hasta la ingeniería de software y la infraestructura crítica.
