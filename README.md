@@ -22,7 +22,7 @@
 
 # Soy un apasionado de la tecnología y la ingeniería 🚀
 
-Cuento con un perfil técnico multidisciplinario enfocado en la arquitectura de sistemas, la seguridad de la información y la optimización de procesos tecnológicos, abarcando desde el diseño de hardware de bajo nivel hasta la ingeniería de software y la infraestructura crítica.
+Cuento con un perfil técnico multidisciplinario enfocado en la arquitectura de sistemas, la seguridad de la información y la optimización de procesos tecnológicos, abarcando desde el diseño de hardware de bajo nivel hasta la ingeniería de software y la infraestructura.
 
 ---
 
