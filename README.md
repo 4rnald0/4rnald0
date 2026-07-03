@@ -20,7 +20,7 @@
 
 - 📄 Conoce mis experiencias y trayectoria en <a href="https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a> o en <a href="https://www.arnaldocruz.cl/">Mi Sitio Web Personal</a>
 
-# Soy un apasionado de la Tecnología y la Ingeniería 🚀
+<center> ## Soy un apasionado de la Tecnología y la Ingeniería 🚀 </center>
 
 <center>Cuento con un perfil técnico multidisciplinario enfocado en la arquitectura de sistemas, la seguridad de la información y la optimización de procesos tecnológicos, abarcando desde el diseño de hardware de bajo nivel hasta la ingeniería de software y la infraestructura.</center>
 
