@@ -82,7 +82,7 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
 *Estándares declarativos para la interoperabilidad de datos en la red y la maquetación formal de información.*
 
 * **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-* **Formatos Ligeros / Marcado:** `Markdown` | `Wikitexto`
+* **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | `Wikitexto`
 * **Tecnologías de Sindicación:** `ATOM RSS` | `RSS Feeds`
 
 ---
