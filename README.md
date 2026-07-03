@@ -83,7 +83,7 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
 
 * **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 * **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=flat-square&logo=wikipedia&logoColor=white)
-* **Tecnologías de Sindicación:** `ATOM RSS` | `RSS Feeds`
+* **Tecnologías de Sindicación:** ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white) | ![Rss](https://img.shields.io/badge/rss-F88900?style=fflat-square&logo=rss&logoColor=white)
 
 ---
 
