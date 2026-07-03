@@ -90,8 +90,8 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
 ## 📈 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=visual_studio_dark" alt="Lenguajes más usados" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4rnald0&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnald0&layout=compact&theme=visual_studio_dark" alt="Lenguajes más usados" height="150" />
 </p>
 
 *Nota: Recuerda reemplazar `TU_USUARIO_AQUI` por tu nombre de usuario real de GitHub en los enlaces de las estadísticas.*
