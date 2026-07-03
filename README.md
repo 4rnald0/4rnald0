@@ -18,4 +18,4 @@
 
 - 📫 Escribeme a **contacto@arnaldocruz.cl**
 
-- 📄 Conoce mis experiencias y trayectoria en <a href="https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a> o en <a href="https://www.arnaldocruz.cl/">Mi Sitio Web Personal</a>
+- 📄 Conoce mis experiencias y trayectoria en <a href="https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a> o en <a href="https://www.arnaldocruz.cl/">Mi Sitio Web Personal.</a>
