@@ -27,7 +27,7 @@
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
-Aprendí ___ tipos de lenguajes en diferentes niveles:
+Aprendí __ tipos de lenguajes en diferentes niveles:
 
 
 ### 🎛️ 1. Electrónica Digital, Descripción de Hardware y Sistemas Embebidos de Bajo Nivel
