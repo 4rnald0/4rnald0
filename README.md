@@ -27,11 +27,26 @@
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
-A continuación se detallan las tecnologías y lenguajes clasificados según su área de aplicación y propósito de diseño:
+Aprendí __ tipos de lenguajes en diferentes niveles:
 
 
-### 🛠️ Automatización, Scripting & CLI (TTY)
+### 🎛️ 1. Electrónica Digital, Descripción de Hardware y Sistemas Embebidos de Bajo Nivel
+*Tecnologías aplicadas al silicio, microcontroladores como el Algebra de Boole y los mapas de Karnaugh.*
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-294E80?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Hardware HDL](https://img.shields.io/badge/HDL_(VHDL/Verilog)-💾-2C3E50?style=for-the-badge)
+![PicoC / Embebido](https://img.shields.io/badge/PicoC_&_Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+
+### 🛠️ 2. Automatización, Scripting & CLI (TTY)
 *Entornos de consola y automatización interna de tareas a nivel de sistema operativo y administración.*
+
+* **Cisco Systems** (Cisco IOS/XE/XR CLI)
+* **Juniper Networks** (Junos OS CLI)
+* **Huawei Enterprise** (VRP CLI)
+* **Alcatel-Lucent Enterprise** (AOS CLI)
 
 ![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -39,15 +54,7 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
 
 
-### 📝 Documentación Tecnológica, Formato & Sindicación
-*Estándares declarativos para la interoperabilidad de datos en la red y la maquetación formal de información.*
-
-* **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-* **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=flat-square&logo=wikipedia&logoColor=white)
-* **Tecnologías de Sindicación:** ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white) | ![Rss](https://img.shields.io/badge/rss-F88900?style=fflat-square&logo=rss&logoColor=white)
-
-
-### 💻 Desarrollo de Software & Arquitectura Web
+### 💻 3. Desarrollo de Software & Arquitectura Web
 *Herramientas y lenguajes para la construcción de soluciones lógicas, backend y capas de presentación.*
 
 <table>
@@ -79,14 +86,13 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
 </table>
 
 
-### 🎛️ Hardware, Sistemas Embebidos y Bajo Nivel
-*Tecnologías aplicadas al silicio, microcontroladores y descripción de hardware.*
+### 📝 4. Documentación Tecnológica, Formato & Sindicación
+*Estándares declarativos para la interoperabilidad de datos en la red y la maquetación formal de información.*
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-294E80?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Hardware HDL](https://img.shields.io/badge/HDL_(VHDL/Verilog)-💾-2C3E50?style=for-the-badge)
-![PicoC / Embebido](https://img.shields.io/badge/PicoC_&_Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+* **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+* **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=flat-square&logo=wikipedia&logoColor=white)
+* **Tecnologías de Sindicación:** ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat-square&logo=atom&logoColor=white) | ![Rss](https://img.shields.io/badge/rss-F88900?style=fflat-square&logo=rss&logoColor=white)
+
 
 ---
 
@@ -99,7 +105,7 @@ A continuación se detallan las tecnologías y lenguajes clasificados según su 
 
 *Nota: Recuerda reemplazar `TU_USUARIO_AQUI` por tu nombre de usuario real de GitHub en los enlaces de las estadísticas.*
 
-## Project Tags 
+## Tags del Proyecto
 ![GitHub top language](https://img.shields.io/github/languages/top/4rnald0/4rnald0)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/4rnald0/4rnald0)
 ![GitHub language count](https://img.shields.io/github/languages/count/4rnald0/4rnald0)
