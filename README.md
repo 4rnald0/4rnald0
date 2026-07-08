@@ -27,11 +27,11 @@
 
 ## 🛠️ Stack Tecnológico & Habilidades
 
-Aprendí __ tipos de lenguajes en diferentes niveles:
+A lo largo de mi carrera aprendí muchos tipos de lenguajes en diferentes niveles:
 
 
 ### 🎛️ 1. Electrónica Digital, Descripción de Hardware y Sistemas Embebidos de Bajo Nivel
-*Tecnologías aplicadas al silicio, microcontroladores como el Algebra de Boole y los mapas de Karnaugh.*
+*Tecnologías aplicadas a Multiplexores, Circuitos Integrados y Microcontroladores con Algebra de Boole y los mapas de Karnaugh.*
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -40,8 +40,8 @@ Aprendí __ tipos de lenguajes en diferentes niveles:
 ![PicoC / Embebido](https://img.shields.io/badge/PicoC_&_Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-### 🛠️ 2. Automatización, Scripting & CLI (TTY)
-*Entornos de consola y automatización interna de tareas a nivel de sistema operativo y administración.*
+### 🛠️ 2. Automatización, Scripting & CLI (TTY) 
+*Entornos de Consola y Automatización Interna de tareas a nivel de Sistema Operativo y Administración.*
 
 * **Cisco Systems** (Cisco IOS/XE/XR CLI)
 * **Juniper Networks** (Junos OS CLI)
@@ -54,7 +54,7 @@ Aprendí __ tipos de lenguajes en diferentes niveles:
 ![VBScript](https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)
 
 
-### 💻 3. Desarrollo de Software & Arquitectura Web
+### 💻 3. Desarrollo de Sitios & Arquitectura Web
 *Herramientas y lenguajes para la construcción de soluciones lógicas, backend y capas de presentación.*
 
 <table>
@@ -87,7 +87,7 @@ Aprendí __ tipos de lenguajes en diferentes niveles:
 
 
 ### 📝 4. Documentación Tecnológica, Formato & Sindicación
-*Estándares declarativos para la interoperabilidad de datos en la red y la maquetación formal de información.*
+*Estándares declarativos para la Interoperabilidad de Datos y la Maquetación Formal de Información Científica.*
 
 * **Tipografía Científica y Presentación:** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 * **Formatos Ligeros / Marcado:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) | ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=flat-square&logo=wikipedia&logoColor=white)
