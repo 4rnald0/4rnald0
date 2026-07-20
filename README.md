@@ -13,11 +13,11 @@
 
 - 🤝 Estoy buscando ayuda con **Modelos Cognitivos Complejos Aplicados a Modelos de Lenguaje de Gran Tamaño**
 
-- 👨‍💻 Todas mis investigaciones están disponibles en <a href="https://github.com/4rnald0?tab=repositories">Mis Repositorios de Github</a>
+- 👨‍💻 Todas mis investigaciones y/o publicaciones están disponibles en <a href="https://orcid.org/0009-0005-0311-9247">mi perfil de ORCID</a>
 
-- 📝 Regularmente escribo artículos sobre Tecnologías y Gerenciamiento en <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">Mi Blog de LinkedIn</a>
+- 📝 Regularmente escribo <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">artículos sobre tecnologías</a> y <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/newsletter/"> redacto para mis newsletters</a> en LinkedIn.
 
-- 💬 Conversemos sobre **Sci-HUB, Sci-bot, Obsidian, Zotero, VSCode, LaTeX, GitHub, ORCID, Overleaf, ResearchGate, Academia.edu, CrossRef y Scopus**
+- 💬 Conversemos sobre **Sci-HUB, Sci-bot, Obsidian, Claude, Zotero, VSCode, LaTeX, GitHub, ORCID, Overleaf, arXiv, SSRN, CrossRef, ResearchGate, Academia.edu y Scopus**
 
 - 📫 Escribeme a **contacto@arnaldocruz.cl**
 
