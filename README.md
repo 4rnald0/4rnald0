@@ -15,13 +15,13 @@
 
 - 👨‍💻 Todas mis investigaciones y/o publicaciones están disponibles en <a href="https://orcid.org/0009-0005-0311-9247">mi perfil de ORCID</a>
 
-- 📝 Regularmente escribo <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">artículos sobre tecnologías</a> y <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/newsletter/"> redacto para mis newsletters</a> en LinkedIn.
+- 📝 Regularmente escribo <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">artículos</a> sobre tecnologías y redacto para mis <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/newsletter/">newsletters</a> en LinkedIn.
 
 - 💬 Conversemos sobre **Sci-HUB, Sci-bot, Obsidian, Claude, Zotero, VSCode, LaTeX, GitHub, ORCID, Overleaf, arXiv, SSRN, CrossRef, ResearchGate, Academia.edu y Scopus**
 
 - 📫 Escribeme a **contacto@arnaldocruz.cl**
 
-- 📄 Revisa mis publicaciones en mis <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">articulos</a> y mis <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/newsletter/">newsletters</a> de LinkedIn o en mis <a href="https://medium.com/@arnaldocruzorellana">historias</a> de <a href="https://medium.com/@arnaldocruzorellana/about">Medium.</a>
+- 📄 Revisa mis publicaciones acerca de mi Sistema Rossi para Liderazgo y Gerenciamiento en <a href="https://medium.com/@arnaldocruzorellana/about">Medium.</a>
 
 ---
 
