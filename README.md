@@ -21,7 +21,7 @@
 
 - 📫 Escribeme a **contacto@arnaldocruz.cl**
 
-- 📄 Conoce mis experiencias y trayectoria en <a href="https://www.linkedin.com/in/arnaldocruz/">Mi cuenta de LinkedIn</a> o en <a href="https://www.arnaldocruz.cl/">Mi Sitio Web Personal</a>
+- 📄 Revisa mis publicaciones en mis <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/articles/">articulos</a> y mis <a href="https://www.linkedin.com/in/arnaldocruz/recent-activity/newsletter/">newsletters</a> de LinkedIn o en mis <a href="https://medium.com/@arnaldocruzorellana">historias</a> de <a href="https://medium.com/@arnaldocruzorellana/about">Medium.</a>
 
 ---
 
