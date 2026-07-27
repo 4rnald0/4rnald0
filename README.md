@@ -100,11 +100,9 @@ A lo largo de mi carrera aprendí muchos tipos de lenguajes en diferentes nivele
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=4rnald0" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnald0&layout=compact&theme=visual_studio_dark" alt="Lenguajes más usados" height="150" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
 *Nota: Recuerda reemplazar `TU_USUARIO_AQUI` por tu nombre de usuario real de GitHub en los enlaces de las estadísticas.*
 
