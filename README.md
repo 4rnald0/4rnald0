@@ -96,17 +96,13 @@ A lo largo de mi carrera aprendí muchos tipos de lenguajes en diferentes nivele
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Estadísticas y Tags de GitHub
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=4rnald0" alt="Estadísticas de GitHub" height="150" />
 </p>
 
-
-
-*Nota: Recuerda reemplazar `TU_USUARIO_AQUI` por tu nombre de usuario real de GitHub en los enlaces de las estadísticas.*
-
-## Tags del Proyecto
+##
 ![GitHub top language](https://img.shields.io/github/languages/top/4rnald0/4rnald0)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/4rnald0/4rnald0)
 ![GitHub language count](https://img.shields.io/github/languages/count/4rnald0/4rnald0)
